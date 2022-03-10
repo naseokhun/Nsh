@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Cplus_01",
+    "\\pppp",
+    "\\pppp\\ConsoleApplication1"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\pppp\\ConsoleApplication1\\ConsoleApplication1.cpp",
   "PreviewInSolutionExplorer": false
 }
